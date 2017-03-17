@@ -1,6 +1,6 @@
 # vue-map
 
-> vue&webpack->address search
+> vue&webpack->book store
 
 ## Build Setup
 
